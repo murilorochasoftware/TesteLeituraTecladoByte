@@ -3,7 +3,7 @@
 TesteLeituraTecladoByte
 
 
-Teste de leitura de dados do tipo Byte (primitivo numérico) usando a classe Scanner em Java.
+Teste de leitura de dados do tipo byte (primitivo numérico) usando a classe Scanner em Java.
 
 Código feito utilizando o IDE Intellij IDEA.
 
